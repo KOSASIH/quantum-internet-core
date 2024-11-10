@@ -2,6 +2,8 @@
 
 The Quantum Internet Core is designed with a modular architecture that allows for scalability and flexibility in building quantum communication systems. Below is an overview of the key components and their interactions.
 
+![Quantum Internet Diagram](quantum-internet.jpeg) 
+
 ## Key Components
 
 1. **Quantum Repeaters**: 
