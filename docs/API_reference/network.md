@@ -56,5 +56,5 @@ The `NetworkManager` class is responsible for managing the quantum network, incl
 15 
 16 # Monitor the network
 17 status_report = network_manager.monitor_network()
-18 print("Network Status Report:", status ```markdown
+18 print("Network Status Report:", status
 ```
